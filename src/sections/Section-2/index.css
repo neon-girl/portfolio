@@ -1,0 +1,25 @@
+.second {
+    background-image: url("../../assets/section-2/background.png");
+    background-position: center;
+    background-size: contain;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+
+    .fire-bio {
+        height: 100px;
+        width: 100px;
+    }
+
+    .turning-bio {
+        height: 100px;
+        width: 150px;
+    }
+
+    .bouncing-bio {
+        height: 100px;
+        width: 100px;
+    }
+}
